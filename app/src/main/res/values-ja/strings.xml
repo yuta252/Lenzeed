@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lenzeed</string>
+    <string name="tab_text_1">タブ1</string>
+    <string name="tab_text_2">タブ2</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_map">マップ</string>
+    <string name="title_settings">設定</string>
+    <string name="search_ini">all</string>
+    <string name="camera_btn">写真を撮る</string>
+    <string name="result_inference_label">結果:</string>
+    <string name="result_inference_label2">件</string>
+</resources>

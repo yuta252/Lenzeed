@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lenzeed</string>
+    <string name="tab_text_1">Tab1</string>
+    <string name="tab_text_2">Tab2</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_settings">setting</string>
+    <string name="search_ini">all</string>
+    <string name="title_activity_spot_detail"></string>
+    <string name="action_settings">Settings</string>
+    <string name="camera_btn">Take a picture!</string>
+    <string name="result_inference_label">Result:</string>
+    <string name="result_inference_label2">Item</string>
+</resources>
